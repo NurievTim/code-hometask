@@ -10,4 +10,4 @@ if (num1 > num2)
 {
     Console.Write($"Большее число - {num1}, меньшее число - {num2} ");
 }
-else Console.Write($"Большее число - {num2}, меньшее число - {num1} ");
+else Console.WriteLine($"Большее число - {num2}, меньшее число - {num1} ");
